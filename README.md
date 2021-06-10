@@ -1,6 +1,6 @@
 # BSPTree
 
-This project has code from one of my last graphics projects. It devides all geomrty into a scene and builds a BSP (Binary space partitioning) tree.
+This project has code from one of my last graphics projects. It divides all geometry into a scene and builds a BSP (Binary space partitioning) tree.
 
 In BSPTree.cpp/h there is code for actually building the tree recursively using different splitting planes. 
 
